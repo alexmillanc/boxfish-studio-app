@@ -1,0 +1,30 @@
+main {
+    margin-top: 60px;
+}
+
+main .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+main img {
+    width: 100%;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+#subtitulo {
+    text-align: center;
+    font-size: 18px;
+    color: #999999;
+}
+
+#adicionales {
+    text-align: right;
+    margin-right: 15px;
+}

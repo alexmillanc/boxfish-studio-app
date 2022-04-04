@@ -1,0 +1,8 @@
+#checkLightDark {
+    align-content: right;
+    position: static;
+}
+
+#checkLightDark:checked + label {
+    color: #4081FF;
+  }
